@@ -1,4 +1,4 @@
-# eval4nlp.github.io
+# sciprodllm.github.io
 To run the website locally:
 ```
 npm install
