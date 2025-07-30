@@ -29,7 +29,8 @@ h6 {
 }
 
 a {
-  color: #212529;
+    color: #212529;
+    text-decoration: underline;
   transition: all 0.2s;
 }
 a:focus, a:hover {
